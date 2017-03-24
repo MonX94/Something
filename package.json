@@ -1,0 +1,31 @@
+{
+  "name": "monx-eg74.b",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MonX94",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "eslint": "^3.17.1",
+    "eslint-loader": "^1.6.3",
+    "eslint-plugin-react": "^6.10.0",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "holmes.js": "^1.16.6",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None"
+  }
+}
